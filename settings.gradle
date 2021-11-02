@@ -1,2 +1,5 @@
-include ':app'
 rootProject.name = "MultiModuleNavSample"
+include ':app'
+include ':feature_a'
+include ':feature_b'
+include ':feature_c'
